@@ -1,6 +1,6 @@
 ## Hi, Welcome to my GitHub! 👋
 
-- 👩‍💻 I'm Xinrui (Sylvie). I currently live in Seattle. I am in the second year of my CS master at Northeastern University, USA.
+- 👩‍💻 I'm Xinrui (Sylvie). I currently live in Seattle. I am in the second year of my CS master's program at Northeastern University, USA.
 - I’m a Google Summer of Code 2024 contributor for the Apache Software Foundation org, developing clustering monitoring feature for BanyanDB, an observability database designed to store metrics data produced by Apache Skywalking.
 - I'm an ex-product manager, where I designed product requirements and oversaw the entire process of software projects. This experience sharpened my focus on user experience, which now influences how I approach coding with a user-first mindset.
 - ⚡  I enjoy coding, cooking, traveling and cats.
